@@ -1,8 +1,9 @@
 objectid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
-1,Western Museum 33,JPG,Western Museum of Minning and Industry ,,Cornish Beam Engine,,,1970,,,Western Museum of Minning and Industry https://wmmi.org/welcome.html ,,39.0258164867065, -104.82903836460964,,,,,,,,,,,
-2,Western Museum 1,JPG,Assay Office ,,Assay Rooms are places that would find how much of the minnerals found in the mine are pure,,,1830,,,Exhibition ,,,,,,,,,,,,,,
-3,Western Museum 9 ,JPG,Minerals ,,Fluorescent Minerals,,,,,,Minnerals,,,,,,,,,,,,,,
-4,Western Museum 10,JPG,Interactive ,,Panning For Gold,,,,,,Interactives,,,,,,,,,,,,,,
-5,Western Museum 21,JPG,Industry ,,Skinner Automatic Steam Engine & Westinghouse D.C. Generator,,,1906,,,Industry,,,,,,,,,,,,,,
+1,Western Museum 33,,Western Museum of Minning and Industry ,JPG,Cornish Beam Engine,,,1970,,,Western Museum of Minning and Industry https://wmmi.org/welcome.html ,,39.0258164867065, -104.82903836460964,,,,,,,,,,,
+2,Western Museum 1,,Assay Office ,,Assay Rooms are places that would find how much of the minnerals found in the mine are pure,JPG,,1830,,,Exhibition ,,,,,,,,,,,,,,
+3,Western Museum 9 ,,Minerals ,JPJ,Fluorescent Minerals,,,,,,Minnerals,,,,,,,,,,,,,,
+4,Western Museum 10,,Interactive ,JPG,Panning For Gold,,,,,,Interactives,,,,,,,,,,,,,,
+5,Western Museum 21,,Industry ,JPG,Skinner Automatic Steam Engine & Westinghouse D.C. Generator,,,1906,,,Industry,,,,,,,,,,,,,,
 
-6,Western Museum 30 ,JPG,Industry ,,,,,,,,Industry ,,,,,,,,,,,,,,
+6,Western Museum 30 ,,Industry ,JPG,,,,,,,Industry ,,,,,,,,,,,,,,
+
